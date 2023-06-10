@@ -5,4 +5,4 @@
 
 **Note**:
 
-- [Docker](https://www.docker.com/) must be installed & running to use this application, because it uses [official Docker Engine SDK](https://docs.docker.com/engine/api/sdk/) for Go to communicate with the Docker Daemon.
+- [Docker](https://www.docker.com/) must be installed & running to use this application, because it uses [official Docker Engine's Go SDK](https://docs.docker.com/engine/api/sdk/) to communicate with the Docker Daemon.
