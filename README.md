@@ -8,3 +8,13 @@ It's a helper mini-tool that can be used to search images available on [Docker H
 **Note**:
 
 - [Docker](https://www.docker.com/) must be installed & running to use this application, because it uses [official Docker Engine's Go SDK](https://docs.docker.com/engine/api/sdk/) to communicate with the Docker Daemon.
+
+### Dependencies
+
+Project depends on:
+
+1. [docker](https://docs.docker.com/engine/api/sdk/) - Docker provided API for interacting with the Docker daemon (called the Docker Engine API).
+
+2. [tview](https://github.com/rivo/tview) - Terminal UI library with rich, interactive widgets — written in Golang
+
+3. [go-pretty](https://github.com/jedib0t/go-pretty) - Table-writer and more in golang!
