@@ -18,3 +18,15 @@ Currently the project depends on:
 2. [tview](https://github.com/rivo/tview) - Terminal UI library with rich, interactive widgets — written in Golang
 
 3. [go-pretty](https://github.com/jedib0t/go-pretty) - Table-writer and more in golang!
+
+## Main Features
+
+- Interactive terminal UI to search for any Docker Hub images.
+
+- Easily set filters or limits for the search.
+
+- Automatically result sorting based on highest to lowest stars count.
+
+- At present, no credentials/sign-in is required! Just run Docker Daemon/Engine & have internet connection...
+
+- Fully open source under MIT license...
