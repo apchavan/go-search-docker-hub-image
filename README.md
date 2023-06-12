@@ -1,5 +1,5 @@
 
-[![GitHub go.mod Go version of a Go module](https://img.shields.io/github/go-mod/go-version/gomods/athens.svg)](https://github.com/gomods/athens) ![](https://img.shields.io/badge/OS-Linux-orange) ![](https://img.shields.io/badge/OS-macOS-black) ![](https://img.shields.io/badge/OS-Windows-blue)
+[![GitHub go.mod Go version of a Go module](https://img.shields.io/github/go-mod/go-version/gomods/athens.svg)](https://github.com/gomods/athens) [![GoReportCard](https://goreportcard.com/badge/github.com/apchavan/go-search-docker-hub-image)](https://goreportcard.com/report/github.com/apchavan/go-search-docker-hub-image) ![](https://img.shields.io/badge/OS-Linux-orange) ![](https://img.shields.io/badge/OS-macOS-black) ![](https://img.shields.io/badge/OS-Windows-blue) [![Go Reference](https://pkg.go.dev/badge/github.com/apchavan/go-search-docker-hub-image.svg)](https://pkg.go.dev/github.com/apchavan/go-search-docker-hub-image)
 
 # Search for Docker Hub Images
 
