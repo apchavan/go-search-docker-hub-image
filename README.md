@@ -30,3 +30,15 @@ Currently the project depends on:
 - At present, no credentials/sign-in is required! Just run Docker Daemon/Engine & have internet connection...
 
 - Fully open source under MIT license!
+
+## Build Binary
+
+After installing [Go](https://go.dev), enter below command from project's root,
+
+- On Linux/UNIX,
+
+    `go build -o search_docker_hub_image ./cmd/search_docker_hub_image.go`
+
+- On Windows,
+
+    `go build -o search_docker_hub_image.exe ./cmd/search_docker_hub_image.go`
