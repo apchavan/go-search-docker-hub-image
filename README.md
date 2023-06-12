@@ -9,16 +9,6 @@ It's a helper mini-tool that can be used to search images available on [Docker H
 
 - [Docker](https://www.docker.com/) must be installed & running to use this application, because it uses [official Docker Engine's Go SDK](https://docs.docker.com/engine/api/sdk/) to communicate with the Docker Daemon/Engine.
 
-## Dependencies
-
-Currently the project depends on:
-
-1. [docker](https://docs.docker.com/engine/api/sdk/) - Docker provided API for interacting with the Docker daemon (called the Docker Engine API).
-
-2. [tview](https://github.com/rivo/tview) - Terminal UI library with rich, interactive widgets — written in Golang
-
-3. [go-pretty](https://github.com/jedib0t/go-pretty) - Table-writer and more in golang!
-
 ## Main Features
 
 - Interactive terminal UI to search for any Docker Hub images.
@@ -30,6 +20,16 @@ Currently the project depends on:
 - At present, no credentials/sign-in is required! Just run Docker Daemon/Engine & have internet connection...
 
 - Fully open source under MIT license!
+
+## Dependencies
+
+Currently the project depends on:
+
+1. [docker](https://docs.docker.com/engine/api/sdk/) - Docker provided API for interacting with the Docker daemon (called the Docker Engine API).
+
+2. [tview](https://github.com/rivo/tview) - Terminal UI library with rich, interactive widgets — written in Golang
+
+3. [go-pretty](https://github.com/jedib0t/go-pretty) - Table-writer and more in golang!
 
 ## Build Binary
 
