@@ -1,7 +1,12 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+
+	runnerpkg "github.com/apchavan/go-search-docker-hub-image/runner"
+)
 
 func main() {
-	fmt.Printf("Welcome to WIP project to Search Docker Hub Images from your system!")
+	_ = runnerpkg.GetTuiAppLayout()
+	fmt.Printf("'%s' exited...\n", runnerpkg.GetApplicationName())
 }
