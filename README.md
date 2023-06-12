@@ -45,6 +45,6 @@ After installing [Go](https://go.dev), enter below command from project's root,
 
 ## Run Directly with Source Code
 
-After installing [Go](https://go.dev), clone/download this project & from project root enter below command,
+After installing [Go](https://go.dev), clone/download this project & enter below command from project's root,
 
 `go run ./cmd/search_docker_hub_image.go`
