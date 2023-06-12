@@ -42,3 +42,9 @@ After installing [Go](https://go.dev), enter below command from project's root,
 - On Windows,
 
     `go build -o search_docker_hub_image.exe ./cmd/search_docker_hub_image.go`
+
+## Run Directly with Source Code
+
+After installing [Go](https://go.dev), clone/download this project & from project root enter below command,
+
+`go run ./cmd/search_docker_hub_image.go`
