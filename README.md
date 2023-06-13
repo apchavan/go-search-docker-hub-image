@@ -21,6 +21,8 @@ It's a helper mini-tool that can be used to search images available on [Docker H
 
 - Fully open source under MIT license!
 
+## Working Demo
+
 ## Dependencies
 
 Currently the project depends on:
