@@ -82,7 +82,7 @@ func SearchDockerHub(
 				Value: "true",
 			},
 		)
-	} else if imageDetails.AutomatedOrManualBuildType == 2 {
+	} else if imageDetails.OfficialOrCommunityBuildStatus == 2 {
 		initialKeyValue_FilterPairs = append(
 			initialKeyValue_FilterPairs,
 			filters.KeyValuePair{
