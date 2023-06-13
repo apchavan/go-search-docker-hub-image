@@ -23,6 +23,8 @@ It's a helper mini-tool that can be used to search images available on [Docker H
 
 ## Working Demo
 
+https://github.com/apchavan/go-search-docker-hub-image/assets/49102443/41d2d881-2c74-418b-924d-4b6df61b72e2
+
 ## Dependencies
 
 Currently the project depends on:
