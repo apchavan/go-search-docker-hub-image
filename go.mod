@@ -6,7 +6,7 @@ require (
 	github.com/docker/docker v24.0.2+incompatible
 	github.com/gdamore/tcell/v2 v2.6.0
 	github.com/jedib0t/go-pretty/v6 v6.4.6
-	github.com/rivo/tview v0.0.0-20230615085408-bb9595ee0f4d
+	github.com/rivo/tview v0.0.0-20230618112000-a5e7b2865ee1
 )
 
 require (
